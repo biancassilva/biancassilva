@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=biancassilva" alt="biancassilva" /> 
 </p>
 
-- Ask me about **Vue.js, Quasar Framework, Javascript, Typescript, GraphQL**
+- Ask me about **Vue.js, Quasar Framework, Javascript, Typescript, GraphQL, React**
 
 - How to reach me **contact@biancassilva.dev**
 
