@@ -6,6 +6,6 @@
 
 - Ask me about **Vue.js, Quasar Framework, Javascript, Typescript, GraphQL, React**
 
-- How to reach me **contact@biancassilva.dev**
+- How to reach me **contato@biancassilva.dev**
 
 
