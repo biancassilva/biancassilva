@@ -8,4 +8,4 @@
 
 - How to reach me **contato@biancassilva.dev**
 
-
+- LinkedIn: https://www.linkedin.com/in/biancassilva/
