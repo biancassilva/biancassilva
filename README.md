@@ -4,6 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=biancassilva" alt="biancassilva" /> 
 </p>
 
-- How to reach me: **me@biancassilva.dev**
+- How to reach me: **contato@biancassilva.dev**
 
 - LinkedIn: https://www.linkedin.com/in/biancassilva/
